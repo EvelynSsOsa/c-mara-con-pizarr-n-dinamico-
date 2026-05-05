@@ -73,7 +73,7 @@ Pero no es un simple dibujo virtual... 👀
 ## 🎨 Paleta dinámica
 
 <p align="center">
-  <img width="700" src="AQUI_IMAGEN_1">
+  <img width="700" src="dinamico.png">
 </p>
 
 ---
@@ -81,7 +81,7 @@ Pero no es un simple dibujo virtual... 👀
 ## ✋ Detección de landmarks
 
 <p align="center">
-  <img width="700" src="AQUI_IMAGEN_2">
+  <img width="700" src="landa.png">
 </p>
 
 ---
