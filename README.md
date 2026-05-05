@@ -1,7 +1,7 @@
-# 🎨 Air Painter
+# Air Painter
 
 <p align="center">
-  ✋🖌️ Dibuja en el aire utilizando visión por computadora • MediaPipe • OpenCV • Python
+  Dibuja en el aire utilizando visión por computadora • MediaPipe • OpenCV • Python
 </p>
 
 ---
@@ -11,28 +11,28 @@
 </p>
 
 <p align="center">
- ✨ Dibuja con tus dedos • 🎨 Cambia colores • 🖐️ Detecta gestos • 🚀 Tiempo real
+ Dibuja con tus dedos • Cambia colores • 🖐️ Detecta gestos • Tiempo real
 </p>
 
 ---
 
-# 🚀 Sobre el proyecto
+# Sobre el proyecto
 
 **Air Painter** es un pizarrón virtual desarrollado con **Python**, **OpenCV** y **MediaPipe**, capaz de detectar movimientos de la mano en tiempo real mediante visión por computadora.
 
 El sistema utiliza los **21 landmarks de MediaPipe** para interpretar gestos y convertir el movimiento del dedo índice en trazos sobre un lienzo digital.
 
-Pero no es un simple dibujo virtual... 👀
+Pero no es un simple dibujo virtual... 
 
-👉 Puedes cambiar colores usando gestos  
-👉 Controlar el tamaño del pincel  
-👉 Pausar el dibujo  
-👉 Limpiar la pantalla  
-👉 Guardar tus dibujos automáticamente 💾
+- Puedes cambiar colores usando gestos  
+- Controlar el tamaño del pincel  
+- Pausar el dibujo  
+- Limpiar la pantalla  
+- Guardar tus dibujos automáticamente 
 
 ---
 
-# 🧠 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 | Tecnología | Uso |
 |---|---|
@@ -48,23 +48,23 @@ Pero no es un simple dibujo virtual... 👀
 | Gesto | Acción |
 |---|---|
 | ☝️ Índice levantado | Dibujar |
-| ✌️ Solo dedo medio | Cambiar tamaño del pincel |
+| 🖕Solo dedo medio | Cambiar tamaño del pincel |
 | ☝️✌️ Índice + medio | Pausar dibujo |
 | 👉 Señalar color | Cambiar color |
 | 🧹 Señalar "LIMPIAR" | Limpiar lienzo |
 
 ---
 
-# 🎨 Características
+# Características
 
-✅ Detección de manos en tiempo real  
-✅ Pizarrón digital interactivo  
-✅ Paleta dinámica de colores  
-✅ Cambio de grosor del pincel  
-✅ Sistema de pausa  
-✅ Guardado de dibujos  
-✅ Efecto espejo  
-✅ Interfaz visual en tiempo real  
+- Detección de manos en tiempo real  
+- Pizarrón digital interactivo  
+- Paleta dinámica de colores  
+- Cambio de grosor del pincel  
+- Sistema de pausa  
+- Guardado de dibujos  
+- Efecto espejo  
+- Interfaz visual en tiempo real  
 
 ---
 
@@ -94,19 +94,19 @@ Pero no es un simple dibujo virtual... 👀
 
 # ⚙️ Instalación
 
-## 1️⃣ Clonar repositorio
+## 1.- Clonar repositorio
 
 ```bash
 git clone https://github.com/TU-USUARIO/camara-con-pizarron-dinamico.git
 ```
 
-## 2️⃣ Entrar al proyecto
+## 2.- Entrar al proyecto
 
 ```bash
 cd camara-con-pizarron-dinamico
 ```
 
-## 3️⃣ Instalar dependencias
+## 3.- Instalar dependencias
 
 ```bash
 pip install opencv-python mediapipe numpy
@@ -122,9 +122,9 @@ python main.py
 
 ---
 
-# 🖥️ Versiones disponibles
+# Versiones disponibles
 
-## 🔹 Versión Completa
+## Versión Completa
 
 Incluye:
 - Colores
@@ -136,7 +136,7 @@ Incluye:
 
 ---
 
-## 🔹 Versión Simple
+## Versión Simple
 
 Versión reducida para comprender fácilmente la lógica principal del proyecto.
 
@@ -144,30 +144,30 @@ Versión reducida para comprender fácilmente la lógica principal del proyecto.
 
 # 💡 Conceptos aplicados
 
-- 👁️ Visión por computadora
-- ✋ Hand Tracking
-- 🎯 Detección de gestos
-- 📷 Procesamiento de imágenes
-- 🧠 Conversión de coordenadas
-- 🖌️ Dibujo dinámico
-- ⚡ Programación en tiempo real
-- 🧱 Programación orientada a objetos
+- Visión por computadora
+- Hand Tracking
+- Detección de gestos
+- Procesamiento de imágenes
+- Conversión de coordenadas
+- Dibujo dinámico
+- Programación en tiempo real
+- Programación orientada a objetos
 
 ---
 
 # 🔮 Mejoras futuras
 
-- 🎵 Sonidos interactivos
-- 🌈 Más herramientas de dibujo
-- 🤖 IA para reconocimiento de formas
-- 🖼️ Exportar en distintos formatos
-- 🖐️ Soporte para ambas manos
+- Sonidos interactivos
+- Más herramientas de dibujo
+- IA para reconocimiento de formas
+- Exportar en distintos formatos
+- Soporte para ambas manos
 
 ---
 
 # 👩‍💻 Autora
 
-Desarrollado por Eve 💛
+Desarrollado por Eve 🌸🌸
 
 Proyecto creado con Python, paciencia y muchas pruebas con la cámara 😭✨
 
