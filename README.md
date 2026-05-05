@@ -68,8 +68,6 @@ Pero no es un simple dibujo virtual... 👀
 
 ---
 
-# 📸 Capturas
-
 ## 🎨 Paleta dinámica
 
 <p align="center">
