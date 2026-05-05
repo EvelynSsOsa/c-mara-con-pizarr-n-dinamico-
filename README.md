@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img width="900" alt="demo" src="AQUI_TU_IMAGEN_O_GIF">
+  <img width="900" alt="demo" src="demo.png">
 </p>
 
 <p align="center">
