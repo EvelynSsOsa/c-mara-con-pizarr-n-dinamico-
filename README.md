@@ -89,7 +89,7 @@ Pero no es un simple dibujo virtual... 👀
 ## 🖌️ Dibujando en tiempo real
 
 <p align="center">
-  <img width="700" src="AQUI_IMAGEN_3">
+  <img width="700" src="dinosaurio.png">
 </p>
 
 ---
